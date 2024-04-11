@@ -1,0 +1,33 @@
+.image-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  margin: 30px 0;
+}
+
+
+.about {
+  background: #FAEBD7;
+}
+
+.content {
+  background: #DCDCDC;
+}
+
+.textcolor {
+  align-items: center;
+  color: #0F0F0F;
+}
+
+
+.cariusel {
+  color: #00FFFF;
+}
+
+.cariusel-с {
+  color: #00FFFF;
+  text-decoration: none;
+
+}
